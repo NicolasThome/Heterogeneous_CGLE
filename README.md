@@ -4,6 +4,7 @@ This repository accompanies the manuscript
 “Complete Synchronization and Pattern Selection through Amplitude Dynamics and Diffusion in Heterogeneous Oscillatory Media.”
 
 It provides all scripts required to reproduce the numerical results presented in the paper. The repository contains implementations for simulating both heterogeneous Stuart–Landau oscillators and a heterogeneous complex Ginzburg–Landau equation (CGLE) with linear global diffusive coupling.
+The data used in the generation of the plots has been uploaded to Zenodo with the DOI xyz.
 
 Environment:
 
@@ -22,8 +23,11 @@ All relevant parameters can be easily adjusted within the script.
 
 2. Globally Coupled Stuart–Landau Oscillators
 
-The script Runs_Hetero_Harmo_Paper.jl numerically integrates a globally coupled system of heterogeneous Stuart–Landau oscillators. It was used to generate the data shown in Figure 8 of the manuscript.
+The script Runs_Hetero_Harmo_Paper.jl numerically integrates a globally coupled system of heterogeneous Stuart–Landau oscillators. It was used to generate the data shown in Figure 7 of the manuscript.
 It relies on the SLH module included in the repository.
 
+3. Center Manifold analysis
+
+To compare the center manifold approach to nuermical data, we used the Figure_8.jl file
 
 
