@@ -1,4 +1,4 @@
-using DifferentialEquations, Plots, StatsBase, JLD2, LaTeXStrings, Distributions, Random, DSP, Statistics
+using DifferentialEquations, Plots, StatsBase, JLD2, Distributions, Random, DSP, Statistics
 
 K  = 1.2
 d = 0.03
