@@ -1,10 +1,10 @@
 Heterogeneous_CGLE
 
 This repository accompanies the manuscript
-“Complete Synchronization and Pattern Selection through Amplitude Dynamics and Diffusion in Heterogeneous Oscillatory Media.”
+“Synchronized Bimodal Amplitude Patterns in Heterogeneous Oscillatory Media --- Experiment and Theory”
 
 It provides all scripts required to reproduce the numerical results presented in the paper. The repository contains implementations for simulating both heterogeneous Stuart–Landau oscillators and a heterogeneous complex Ginzburg–Landau equation (CGLE) with linear global diffusive coupling.
-The data used in the generation of the plots has been uploaded to Zenodo with the DOI xyz.
+The data used in the generation of the plots has been uploaded to Zenodo link https://zenodo.org/records/17370807.
 
 Environment:
 
